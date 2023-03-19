@@ -1,5 +1,5 @@
 {
-  "title": "Blog by John Doe",
+  "title": "Blog by Shelly Wu",
   "url": "https://lumen.alxshelepenok.com",
   "subtitle": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
   "copyright": "© All rights reserved.",
@@ -22,7 +22,7 @@
     }
   ],
   "author": {
-    "name": "John Doe",
+    "name": "Shelly Wu",
     "photo": "/photo.jpg",
     "bio": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
     "contacts": {

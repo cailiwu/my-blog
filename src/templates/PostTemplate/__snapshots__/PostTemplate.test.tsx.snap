@@ -42,7 +42,7 @@ exports[`PostTemplate renders correctly 1`] = `
             target="_blank"
           >
             <strong>
-              John Doe
+              Shelly Wu
             </strong>
              on Twitter
           </a>

@@ -3,8 +3,8 @@ title: Next-generation ORM：Prisma
 date: "2023-01-01T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "/posts/humane-typography-in-the-digital-age"
-category: "Typography"
+slug: "/posts/2023-01-01---Next-generation-ORM-Prisma"
+category: "Backend"
 tags:
   - "ORM"
   - "Prisma"
